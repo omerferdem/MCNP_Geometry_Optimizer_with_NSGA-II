@@ -64,6 +64,7 @@ You can install dependencies with:
 
 ```bash
 pip install pandas numpy deap
+```
 
 ## 📁 File Structure Overview
 
