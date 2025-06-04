@@ -64,10 +64,10 @@ You can install dependencies with:
 
 ```bash
 pip install pandas numpy deap
-```
 
 ## 📁 File Structure Overview
 
+```bash
 MCNP_Geometry_Optimizer_with_NSGA-II/
 ├── comparator.py # Compares parent and offspring populations for selection
 ├── crossover_mutation.py # Applies crossover and mutation operators to individuals
@@ -84,6 +84,7 @@ MCNP_Geometry_Optimizer_with_NSGA-II/
 ├── scatter_bests_histories.py # Plots best individuals' objective values over generations
 ├── scatter_pop_histories.py # Plots entire population objective values across generations
 └── README.md # Project documentation (this file)
+```
 
 ## 📬 Contact & Contributions
 
